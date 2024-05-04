@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: grey;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControlerPersonalAcc">
+   <children>
+      <AnchorPane prefHeight="69.0" prefWidth="600.0" style="-fx-background-color: black;">
+         <children>
+            <Text fill="WHITE" layoutX="222.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Личный кабинет" wrappingWidth="155.13671875">
+               <font>
+                  <Font name="Nunito Bold" size="19.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <Button fx:id="buttonBuyAboniment" disable="true" layoutX="97.0" layoutY="282.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="187.0" text="Купить абонемент" textAlignment="CENTER">
+         <font>
+            <Font name="Nunito Bold" size="16.0" />
+         </font>
+      </Button>
+      <Text fx:id="textAbonimentChange" layoutX="140.0" layoutY="231.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Название абонемента" textAlignment="CENTER" visible="false" wrappingWidth="223.13671875">
+         <font>
+            <Font name="Nunito Bold" size="19.0" />
+         </font>
+      </Text>
+      <Text fx:id="abonumntText" layoutX="18.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Абонемент:" textAlignment="RIGHT" wrappingWidth="155.13671875">
+         <font>
+            <Font name="Nunito Bold" size="19.0" />
+         </font>
+      </Text>
+      <Text fx:id="textNumberPhone" layoutX="17.0" layoutY="243.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Номер телефона:" textAlignment="RIGHT" wrappingWidth="163.13671875">
+         <font>
+            <Font name="Nunito Bold" size="19.0" />
+         </font>
+      </Text>
+      <Button fx:id="ButtonClose" layoutX="243.0" layoutY="333.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="114.0" text="Выйти ">
+         <font>
+            <Font name="Nunito Bold" size="16.0" />
+         </font>
+      </Button>
+      <Text fx:id="textNumberPhone1" layoutX="10.0" layoutY="181.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Логин:" textAlignment="RIGHT" wrappingWidth="163.13671875">
+         <font>
+            <Font name="Nunito Bold" size="19.0" />
+         </font>
+      </Text>
+      <Text fx:id="textNumberPhoneChange11" layoutX="18.0" layoutY="207.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Пароль" textAlignment="RIGHT" wrappingWidth="155.13671875">
+         <font>
+            <Font name="Nunito Bold" size="19.0" />
+         </font>
+      </Text>
+      <Label fx:id="FIOUpChange" layoutX="14.0" layoutY="81.0" prefHeight="28.0" prefWidth="453.0" text="имя личного аккаунта" textAlignment="CENTER">
+         <font>
+            <Font name="Nunito Bold" size="19.0" />
+         </font>
+      </Label>
+      <Label fx:id="loginChage" layoutX="190.0" layoutY="162.0" prefHeight="23.0" prefWidth="155.0" text="Логин">
+         <font>
+            <Font name="Nunito Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="passwordChange" layoutX="186.0" layoutY="189.0" prefHeight="23.0" prefWidth="155.0" text="Пароль">
+         <font>
+            <Font name="Nunito Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="textNumberPhoneChange" layoutX="193.0" layoutY="224.0" prefHeight="23.0" prefWidth="163.0" text="Номер Телефона">
+         <font>
+            <Font name="Nunito Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="textAbonumentChange" layoutX="186.0" layoutY="258.0" prefHeight="23.0" prefWidth="155.0" text="Абонемент не выбран">
+         <font>
+            <Font name="Nunito Bold" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

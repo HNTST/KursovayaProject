@@ -1,0 +1,29 @@
+.alert {
+    -fx-background-color: #333;
+}
+
+.alert .dialog-pane {
+    -fx-background-color: #333;
+}
+
+.alert .header-panel {
+    -fx-background-color: #222;
+}
+
+.alert .header-panel .label {
+    -fx-text-fill: white;
+}
+
+.alert .content.label {
+    -fx-text-fill: white;
+}
+
+.alert .button-bar .button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.alert .button-bar .button:hover {
+    -fx-background-color: #45a049;
+}

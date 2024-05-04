@@ -1,0 +1,451 @@
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000_022
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\RarMy\AppData\Local\Microsoft\WindowsApps;C:\kursovaya\ffffmaven\apache-maven-3.9.6\bin;;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\RarMy\AppData\Local\Microsoft\WindowsApps;C:\kursovaya\ffffmaven\apache-maven-3.9.6\bin;;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\RarMy\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\kursovaya\ffffmaven\apache-maven-3.9.6\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre-1.8\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000_022
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000_022
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.006.000_022
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.006.000_022
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.006.000_022
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.006.000_022
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_411
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_411
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_411
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_411
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_411
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_411
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-22\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.10
+Version string: 1.017.000_010 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17\bin\javac.exe (OK)
+Match:		1.017.000_010
+Runtime used:	1.017.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\RarMy\AppData\Local\Microsoft\WindowsApps;C:\kursovaya\ffffmaven\apache-maven-3.9.6\bin;C:\Users\RarMy\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\RarMy\AppData\Local\Microsoft\WindowsApps;C:\kursovaya\ffffmaven\apache-maven-3.9.6\bin;C:\Users\RarMy\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\RarMy\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\kursovaya\ffffmaven\apache-maven-3.9.6\bin\javaw.exe (not found)
+Check launcher:	C:\Users\RarMy\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_411 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	45/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	 --module-path "javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	127/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\kurs\KursovayaBDProject\mproggg.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\kurs\KursovayaBDProject\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	 --module-path "javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\kurs\KursovayaBDProject\mproggg.exe"
+Args length:	127/32768 chars
+Exit code:	0

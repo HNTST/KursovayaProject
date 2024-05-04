@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="adaptive">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/adaptive" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/alwaysencrypted" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/azureactivedirectoryauthentication" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/connections" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/constrained" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/dataclassification" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/datatypes" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/resultsets" />
+      <root url="file://$PROJECT_DIR$/sqljdbc_12.6/rus/samples/sparse" />
+    </SOURCES>
+  </library>
+</component>
